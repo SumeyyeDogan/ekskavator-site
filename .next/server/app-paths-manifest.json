@@ -1,0 +1,7 @@
+{
+  "/yedek-parca/page": "app/yedek-parca/page.js",
+  "/iletisim/page": "app/iletisim/page.js",
+  "/kiralama/page": "app/kiralama/page.js",
+  "/kurumsal/page": "app/kurumsal/page.js",
+  "/page": "app/page.js"
+}
